@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.Carousel{
+
+  
+  min-height: 40vh;
+  align-items: center;
+
+
+}
+
+.container_marketing{
+
+  display:flexbox;
+
+
+}
